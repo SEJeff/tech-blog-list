@@ -2,8 +2,8 @@ Tech Blogs
 ==========
 
 Please send a pull request adding your tech blog if:
-a. The company is doing something genuinely interesting with tech and publicizing it
-b. You aren't trying to self promote
+- The company is doing something genuinely interesting with tech and publicizing it
+- You aren't trying to self promote
 
 Please keep the list alphabetical
 
