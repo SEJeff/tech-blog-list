@@ -35,6 +35,7 @@ The Links
 * [Soundcloud](https://developers.soundcloud.com/blog)
 * [Square](https://corner.squareup.com)
 * [Trello Engineering](https://trello.engineering)
+* [Tripadvisor Engineering](http://engineering.tripadvisor.com)
 * [Trucar](http://www.drivenbycode.com)
 * [Twitter](https://engineering.twitter.com)
 * [Wikimedia](https://blog.wikimedia.org/c/technology)
